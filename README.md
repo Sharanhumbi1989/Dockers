@@ -1,5 +1,5 @@
-# Kubernates
-Kubernates projects
+# Docker
+Docker projects
 
 Install EC2 inctance 
 
